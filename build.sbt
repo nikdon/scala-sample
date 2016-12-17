@@ -9,7 +9,5 @@ lazy val scalaSample = project
     )
   ))
 
-initialCommands := """|import io.circe._
-                      |import io.circe.syntax._
-                      |import io.circe.generic.auto._
+initialCommands := """|import com.github.nikdon.sample._
                       |""".stripMargin
