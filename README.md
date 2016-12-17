@@ -1,5 +1,7 @@
 # scala-sample
 
+[![Build Status](https://travis-ci.org/nikdon/scala-sample.svg?branch=master)](https://travis-ci.org/nikdon/scala-sample)
+
 **scala-sample** is code snippet for random object generation from [**shapeless guide**](https://github.com/underscoreio/shapeless-guide)
 as a library that can be used in any scala project of version 2.11.+ and 2.12.+ 
 
