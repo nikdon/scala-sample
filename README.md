@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/nikdon/scala-sample.svg?branch=master)](https://travis-ci.org/nikdon/scala-sample)
 [![codecov](https://codecov.io/gh/nikdon/scala-sample/branch/master/graph/badge.svg)](https://codecov.io/gh/nikdon/scala-sample)
+[![](https://jitpack.io/v/nikdon/scala-sample.svg)](https://jitpack.io/#nikdon/scala-sample)
 
 
 **scala-sample** is code snippet for random object generation from [**shapeless guide**](https://github.com/underscoreio/shapeless-guide)
