@@ -6,7 +6,7 @@
 
 
 **scala-sample** is code snippet for random object generation from [**shapeless guide**](https://github.com/underscoreio/shapeless-guide)
-as a library that can be used in any scala project of version 2.11.+ (version of scala-sample "0.1.0") and 2.12.+ (see below)
+as a library that can be used in any scala project of version 2.11.+ (version of scala-sample "1.0.0") and 2.12.+ (see below)
 
 ## Table of contents
 
