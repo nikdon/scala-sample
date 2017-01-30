@@ -20,7 +20,7 @@ To use **scala-sample** add following to build file:
 
 ```scala
 resolvers += "jitpack" at "https://jitpack.io"
-libraryDependencies += "com.github.nikdon" % "scala-sample" % "0.2.0"
+libraryDependencies += "com.github.nikdon" % "scala-sample" % "2.0.0"
 ```
 
 ## Usage
