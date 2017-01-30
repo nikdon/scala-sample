@@ -4,7 +4,7 @@ object Version {
   final val Shapeless = "2.3.2"
   final val ScalaTest = "3.0.1"
 
-  final val Scala     = "2.11.8"
+  final val Scala     = "2.12.1"
 }
 object Library {
   val shapeless = "com.chuusai"   %% "shapeless"  % Version.Shapeless
