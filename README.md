@@ -64,3 +64,5 @@ object Test extends App {
 ## License
 
 Please refer to [**shapeless guide**](https://github.com/underscoreio/shapeless-guide)'s license.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-91956314-1/scala-sample/readme?pixel)](https://github.com/igrigorik/ga-beacon)
